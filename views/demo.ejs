@@ -1,0 +1,17 @@
+<%- include('partials/header') %>
+
+  <main>
+    <h1>Demo</h1>
+    <button id="open-modal-button" class="button">Open Modal</button>
+    <pre>history.pushState('modal-open', null, null);</pre>
+    <div id="modal-container">
+      <div id="modal">
+        <button id="modal-close-button">&times;</button>
+        <img src="/image.svg">
+        <p><a href="/about">Go to about page</a></p>
+      </div>
+    </div>
+  </main>
+  <script type="text/javascript" src="/demo.js"></script>
+
+<%- include('partials/footer') %>
