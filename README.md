@@ -17,7 +17,7 @@ This is a demonstration of how to use the history API to close a modal with the 
 
 The impetus for this was trying to create a good user experience on mobile devices. Often times on an Android device users will open a modal that fills a large portion of the screen and then hit the back button expecting the modal to close. If it doesn't, the user is taken back to whatever page they were previously on. Whether or not this technique should be used is dependent upon the application and the size and type of modal being used.
 
-See [this presentation](public/presentation.ppt) for an explanation of how the code works.
+Download [this presentation](public/presentation.ppt) for an explanation of how the code works.
 
 ## Deployment
 
