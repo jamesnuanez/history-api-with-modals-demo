@@ -1,5 +1,13 @@
 # History API with Modals
 
+Built by James Nuanez in 2020.
+
+## Live Demo
+
+https://history-api.jamesnuanez.com/
+
+## About
+
 This is a demonstration of how to use the history API to close a modal with the back button. It allows the following actions:
 
   * Press the back button to close the modal
